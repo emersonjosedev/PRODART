@@ -1,3 +1,16 @@
+Integrantes
+| Nome | GitHub |
+
+Ryan Filipe de Oliveira | Ryan7Filipe
+
+Ricardo Ferreira | ferreirascdb
+
+Emerson José Souza Vieira | emersonjosedev
+
+Ystefani Mariana Gomes |
+
+Alexsandro Souza | Alexsandro83
+
 # PRODART Recife — protótipo de plataforma
 
 Protótipo estático de duas experiências conectadas: guia público de feiras e portal demonstrativo do artesão. Inclui um [plano de dados e implantação](documento/plano-prodart.html) que descreve governança, qualidade, seleção, privacidade, indicadores e etapas de implantação.
